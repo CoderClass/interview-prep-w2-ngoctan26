@@ -18,7 +18,7 @@ What you will submit:
 - [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet help me to know which sort that should be used in some circumnstances. It does help me to have a comparation between the sort methods
 - [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
-  - I have learned that that this kind of o notation is much better than o(sqrt(n)) and the teacher is a pretty girl :))
+  - I have learned that that this kind of o notation is much better than o(sqrt(n))
   
 **Hashtables**
 
@@ -26,7 +26,7 @@ What you will submit:
 - [x] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
-- [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
+- [x] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
 - [ ] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
 **Coding**
