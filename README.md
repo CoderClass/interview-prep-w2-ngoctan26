@@ -14,11 +14,11 @@ What you will submit:
 - [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
   - I have learned that big o notation is the way for measuring the complexity of algorithm
 - [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
+  - Just like above idea, it the way you evaluate efficiency of your function or your algorithm
 - [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet help me to know which sort that should be used in some circumnstances. It does help me to have a comparation between the sort methods
 - [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
-  - I have learned that that this kind of o notation is much better than o(sqrt(n)) LOL
+  - I have learned that that this kind of o notation is much better than o(sqrt(n)) and the teacher is a pretty girl :))
   
 **Hashtables**
 
