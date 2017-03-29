@@ -11,19 +11,19 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+- [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+  - I have learned that big o notation is the way for measuring the complexity of algorithm
+- [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
-- [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
-  - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
-  - I have learned that...
+- [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
+  - This sheet help me to know which sort that should be used in some circumnstances. It does help me to have a comparation between the sort methods
+- [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+  - I have learned that that this kind of o notation is much better than o(sqrt(n)) LOL
   
 **Hashtables**
 
-- [ ] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
-- [ ] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
+- [x] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
+- [x] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
 - [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
@@ -31,8 +31,8 @@ Extras:
 
 **Coding**
 
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [x] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [x] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
